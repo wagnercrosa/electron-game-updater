@@ -1,11 +1,11 @@
 {
-  "name": "electron-game-updater",
+  "name": "chase-devgames",
   "productName": "Chase Devgames",
   "author": "Devgames",
-  "description": "Electron Game Updater",
-  "version": "0.0.195",
+  "description": "Chase Devgame",
+  "version": "0.0.196",
   "fileAssociations": {
-    "description": "Electron Game Updater"
+    "description": "Chase Devgame"
   },
   "license": "MIT",
   "scripts": {
